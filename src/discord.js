@@ -25,5 +25,5 @@ module.exports = () => new Promise((resolve) => {
         resolve();
     });
 
-	client.login(bot_token);
+    client.login(bot_token);
 });
