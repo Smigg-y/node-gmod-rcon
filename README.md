@@ -11,7 +11,7 @@ cd node-gmod-rcon
 npm install
 ```
 
-Add your information to [`config.json`](https://github.com/Smigg-y/node-gmod-rcon/blob/main/config.json)
+Add your information to [`config.json`](https://github.com/Smigg-y/node-gmod-rcon/blob/main/config.json)[^1]
 
 ```json
 {
@@ -26,3 +26,5 @@ Add your information to [`config.json`](https://github.com/Smigg-y/node-gmod-rco
 ```console
 npm start
 ```
+
+[^1]: Make sure to check if your bot has the correct privileges and is in the servers you wish to it on :)
