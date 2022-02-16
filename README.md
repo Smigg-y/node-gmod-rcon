@@ -1,6 +1,9 @@
 # node-gmod-rcon
 ###### Sends a server status message to wherever the `st` command was called
 
+## Example Output
+![Exmample Image](https://i.imgur.com/gL3TdT1.png)
+
 ## Setup
 
 ```console
