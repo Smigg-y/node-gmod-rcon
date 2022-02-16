@@ -1,0 +1,6 @@
+{
+    "bot_token": "discord bot token",
+
+    "rcon_address": "rcon ip:port (x.x.x.x:p)",
+    "rcon_password": "rcon password"
+}
