@@ -27,4 +27,4 @@ Add your information to [`config.json`](https://github.com/Smigg-y/node-gmod-rco
 npm start
 ```
 
-[^1]: Make sure to check if your bot has the correct privileges and is in the servers you wish to it on :)
+[^1]: Make sure to check if your bot has the correct privileges and is in the servers you wish to use it on :)
